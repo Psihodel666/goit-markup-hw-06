@@ -744,11 +744,11 @@ address ul li a:focus:focus {
   margin-top: 20px;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 .check-wrap label {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 .modal-check-txt::before {
   content: "";
